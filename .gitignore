@@ -1,0 +1,10 @@
+# 데이터 파일 (라이선스/용량 — 저장소에 올리지 않음)
+*.csv
+*.xlsx
+*.xls
+*.rda
+
+# 시스템/캐시
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
