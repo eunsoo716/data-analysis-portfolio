@@ -9,7 +9,7 @@
 | :--- | :--- | :--- |
 | [콜센터 콜량 수요예측](./call-center-forecast) | 콜센터 인입 콜량·응대시간을 30분 단위로 예측 (MAPE 3.7–8.3%) | Python, LightGBM, 시계열 피처 엔지니어링 |
 | [Beer 소비자 세그먼트 분석](./beer-clustering) | 맥주 3,197종을 클러스터링해 고평점 요인 규명 (DBSCAN 파트 담당) | scikit-learn, DBSCAN, t-SNE |
-| [AI 시대 직업 소멸 위험도 분석](./ai-outlook) | 한국 직업 537개의 AI 자동화 노출 위험도 점수화 (진행 중) | Python, 임베딩 기반 매칭 |
+| [AI 시대 직업 소멸 위험도 분석](./ai-outlook) | 한국 직업 537개의 AI 자동화 노출 위험도 점수화 (데이터 병합·매칭·위험점수·EDA) | Python, 의미 임베딩 매칭 |
 
 ## 🧰 기술 스택
 - **언어**: Python, SQL
