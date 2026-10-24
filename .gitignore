@@ -12,3 +12,4 @@ __pycache__/
 # 분석용 데이터베이스 파일
 *.duckdb
 *.duckdb.wal
+*.zip
