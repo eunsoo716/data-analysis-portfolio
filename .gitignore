@@ -8,3 +8,7 @@
 .DS_Store
 __pycache__/
 .ipynb_checkpoints/
+
+# 분석용 데이터베이스 파일
+*.duckdb
+*.duckdb.wal
