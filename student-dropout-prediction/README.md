@@ -10,7 +10,7 @@
 
 - UCI Machine Learning Repository, "Predict Students' Dropout and Academic Success" (포르투갈 한 대학 학생)
 - 학생 4,424명 × 36개 변수, 중도이탈 32.1%
-- 이 저장소에는 데이터 파일을 포함하지 않았습니다. UCI에서 내려받아 `data.csv`로 노트북과 같은 폴더에 두면 실행됩니다 (구분자 `;`).
+- 이 저장소에는 데이터 파일을 포함하지 않았습니다. UCI에서 내려받아 `data.csv`로 분석 파일과 같은 폴더에 두면 실행됩니다 (구분자 `;`).
 
 ## 분석 과정
 
@@ -43,7 +43,7 @@
 
 ## 파일
 
-- `student_dropout_prediction.ipynb`: 전체 분석 노트북 (실행 결과 포함)
+- `student_dropout_prediction_final.ipynb`: 전체 분석 과정과 결과 (실행 결과 포함)
 
 ## 사용 기술
 
